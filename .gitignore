@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Raw data (large JSON files)
+raw_data/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
